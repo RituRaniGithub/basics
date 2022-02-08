@@ -1,3 +1,4 @@
+#fibonacci sequence till a given number
 n=int(input("enter number:"))
 x=0
 y=1

@@ -1,4 +1,6 @@
-n=int(input("enter a number:"))
+#program to find if a number is prime or not
+
+n=int(input("Enter a number:"))
 count=0
 i=1
 while(i<=n):
